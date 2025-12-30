@@ -21,6 +21,7 @@ mongoose
 app.use("/api/auth", authRoutes);
 
 app.use("/api/tasks", taskRoutes);
-app.listen(5000, () =>
-  console.log("Server running on http://localhost:5000")
-);
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
