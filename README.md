@@ -47,5 +47,4 @@ It supports **user authentication (JWT)** and **full CRUD operations** for tasks
 
 ---
 
-## 📁 Project Structure
 
