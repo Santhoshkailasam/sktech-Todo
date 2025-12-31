@@ -22,7 +22,7 @@ export default function Register() {
       setLoading(true);
       setError("");
 
-      // ✅ CORRECT API PATH
+
       const res = await API.post("/api/auth/register", {
         name,
         email,

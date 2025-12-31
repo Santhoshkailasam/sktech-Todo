@@ -21,7 +21,7 @@ export default function Login() {
       setLoading(true);
       setError("");
 
-      // ✅ CORRECT API PATH
+
       const res = await API.post("/api/auth/login", {
         email,
         password,
@@ -30,7 +30,7 @@ export default function Login() {
       // save token
       localStorage.setItem("token", res.data.token);
 
-      // ✅ SPA navigation (no reload)
+   
       navigate("/dashboard");
     } catch (err) {
       setError(
