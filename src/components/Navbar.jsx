@@ -8,7 +8,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 bg-black/80 backdrop-blur border-b border-gray-800">
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         <h1 className="text-xl font-semibold text-white tracking-wide">
-          PrimeTrade<span className="text-indigo-500">.ai</span>
+        SK<span className="text-indigo-500">Tech</span>
         </h1>
 
       <button

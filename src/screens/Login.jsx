@@ -45,7 +45,7 @@ export default function Login() {
     <div className="min-h-screen flex flex-col items-center justify-center bg-black px-4">
       {/* Company Name */}
       <h1 className="text-3xl sm:text-4xl font-bold text-white mb-6 tracking-wide">
-        PrimeTrade<span className="text-indigo-500">.ai</span>
+        SK<span className="text-indigo-500">Tech</span>
       </h1>
 
       {/* Login Card */}
