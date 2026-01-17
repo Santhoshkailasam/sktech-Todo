@@ -1,4 +1,4 @@
-# 🚀 PrimeTrade.ai – Task Management Application
+# 🚀 Sktech – Task Management Application
 
 PrimeTrade.ai is a **full-stack task management application** built using the **MERN stack**.  
 It supports **user authentication (JWT)** and **full CRUD operations** for tasks with a modern UI.
@@ -8,7 +8,7 @@ It supports **user authentication (JWT)** and **full CRUD operations** for tasks
 ## 🌐 Live Demo
 
 - **Frontend (Netlify)**: https://primetrade-ai.netlify.app  
-- **Backend (Render)**: https://primetrade-ai-mrpy.onrender.com
+
 
 ---
 
